@@ -1,6 +1,6 @@
 {% set provider = "databricks" %}
 {% set goname = "github.com/databricks/terraform-provider-"+provider.lower() %}
-{% set version = "1.8.0" %}
+{% set version = "1.9.1" %}
 
 {% set name = goname.split('/')[-1] %}
 
@@ -13,7 +13,7 @@ package:
 
 source:
   url: https://{{ goname }}/archive/v{{ version }}.tar.gz
-  sha256: c2619b1978dfeac2faca1d9ac536d284c72fa0cff55829ce218358e54a9994f0
+  sha256: b0c4b52b87df4b6f07ed9bde00b0b0aa36d288137852b92c19f93ee732c0da89
 
 build:
   number: 0
