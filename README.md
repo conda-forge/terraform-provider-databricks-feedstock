@@ -1,11 +1,11 @@
-About terraform-provider-databricks
-===================================
+About terraform-provider-databricks-feedstock
+=============================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/terraform-provider-databricks-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/databricks/terraform-provider-databricks
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/terraform-provider-databricks-feedstock/blob/main/LICENSE.txt)
 
 Summary: Terraform provider for Databricks.
 
